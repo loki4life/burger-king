@@ -1,0 +1,36 @@
+    html{
+        display: flex;
+    }
+
+    nav{
+        display: flex;
+        margin-right: auto;
+        color: yellow;
+        background-color: red;
+    }
+
+    nav a{
+        display: flex;
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+
+    header{
+        width: 100%;
+    }
+
+    a{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+        color: yellow;
+        text-decoration: none;
+    }
+
+    a:active{
+        color: white;
+    }
+
+    body{
+        background-image: url(media/BKlogo.png);
+        background-repeat: no-repeat;
+    }
